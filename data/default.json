@@ -1,0 +1,13 @@
+[
+    {
+        "address": "3JgFwoYV74f6LwWjQWnr3YDPFnmBdwQfNyubv99jqUoq",
+        "chainId": 101,
+        "decimals": 3,
+        "name": "wPOND",
+        "symbol": "wPOND",
+        "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/27712.png",
+        "tags": [
+            "community","pond"
+        ]
+    }
+]
