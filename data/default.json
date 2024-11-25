@@ -9,5 +9,14 @@
         "tags": [
             "community","pond"
         ]
+    },
+    {
+        "address": "9oVBh2BFFhXyv3P8EmQRdNEi6QvqHSRhRnhPnst3pump",
+        "chainId": 101,
+        "decimals": 6,
+        "name": "chilldev",
+        "symbol": "chilldev",
+        "logoURI": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVQIW2NgYGD4DwABBAEAwS2OUAAAAABJRU5ErkJggg==",
+        "tags": []
     }
 ]
